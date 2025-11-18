@@ -1,0 +1,34 @@
+body{
+    background-image: url(https://img.freepik.com/free-psd/watercolor-wedding-border-design_23-2151179935.jpg?semt=ais_hybrid&w=740&q=80);
+    font-style: oblique;
+    /* padding: 50px; */
+}
+
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+
+h2{
+    width: 30%;
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+.container{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    background-color: plum;
+}
+
+img{
+    width: 15%;
+}
+
+.hero-image{
+    background-image: url(Heavens_Gate_and_The_Pink_Panther.jpg);
+}
